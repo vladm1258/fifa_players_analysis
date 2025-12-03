@@ -1,0 +1,21 @@
+short_name,age,club_name,overall,composite_score,player_positions,value_eur,wage_eur,league_name,nationality_name
+K. Mbappé,23,Paris Saint Germain,91,86.07999999999998,"ST, LW",190500000.0,230000.0,Ligue 1,France
+K. De Bruyne,31,Manchester City,91,85.84,"CM, CAM",107500000.0,350000.0,Premier League,Belgium
+M. Salah,30,Liverpool,90,85.32,RW,115500000.0,270000.0,Premier League,Egypt
+L. Messi,35,Paris Saint Germain,91,84.76,RW,54000000.0,195000.0,Ligue 1,Argentina
+K. Benzema,34,Real Madrid,91,83.97999999999999,"CF, ST",64000000.0,450000.0,La Liga,France
+L. Goretzka,27,FC Bayern München,87,83.82,"CM, CDM",91000000.0,115000.0,Bundesliga,Germany
+João Cancelo,28,Manchester City,88,83.8,"LB, RB",82500000.0,250000.0,Premier League,Portugal
+R. Lewandowski,33,FC Barcelona,91,83.74000000000001,ST,84000000.0,420000.0,La Liga,Poland
+S. Mané,30,FC Bayern München,89,83.42,"CF, LM",101000000.0,155000.0,Bundesliga,Senegal
+Neymar Jr,30,Paris Saint Germain,89,83.24,LW,99500000.0,200000.0,Ligue 1,Brazil
+F. Valverde,23,Real Madrid,85,83.2,"CM, RW",81000000.0,190000.0,La Liga,Uruguay
+F. de Jong,25,FC Barcelona,87,82.98000000000002,CM,116500000.0,230000.0,La Liga,Netherlands
+H. Son,29,Tottenham Hotspur,88,82.9,"LW, LM, ST",89500000.0,230000.0,Premier League,Korea Republic
+C. Nkunku,24,RB Leipzig,86,82.87999999999998,"CF, CAM, ST",94000000.0,90000.0,Bundesliga,France
+E. Haaland,21,Manchester City,89,82.82,ST,160000000.0,230000.0,Premier League,Norway
+J. Kimmich,27,FC Bayern München,89,82.64,"CDM, RB, CM",105500000.0,130000.0,Bundesliga,Germany
+Marcos Llorente,27,Atlético Madrid,84,82.61999999999999,"CM, RM, RB",48000000.0,81000.0,La Liga,Spain
+Bernardo Silva,27,Manchester City,88,82.6,"CAM, CM",97500000.0,260000.0,Premier League,Portugal
+L. Modrić,36,Real Madrid,88,82.59999999999998,CM,29000000.0,230000.0,La Liga,Croatia
+N. Barella,25,Inter,86,82.58,CM,89500000.0,110000.0,Serie A,Italy
